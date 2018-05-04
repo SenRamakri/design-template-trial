@@ -14,7 +14,7 @@
 ##	High Level Design Goal N< Example: Error Reporting>
 *Explain your high-level design goal N*
 
-### System Architecture and Component Interaction
+## System Architecture and Component Interaction
 *Description and diagrams showing overall architecture of how the above-mentioned components/resources interface with each other.*
 
 # Detailed Design
