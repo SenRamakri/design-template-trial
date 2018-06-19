@@ -48,15 +48,18 @@
 ###	Scenario 2 Example 1.
 ###	Scenario 2 Example 2.
 
-# Tools Changes
+# Tools and Configuration Changes
 *Explain which tools needs to be changed and the nature of changes*
 
 ## Tool Change 1 <E.g: -  Command line additions/changes
 
-## Tool Change 2 <E.g: -  Configuration changes in Json files etc
+## Configuration Changes <E.g: -  Configuration changes in Json files etc
 
 # Other Information
 *Add other relevant information you would like to capture. Add custom headings if required.*
+
+## Reusability
+*List the components or pieces of implementation which can be re-used for specific design patterns/other implementations*
 
 ## Assumptions
 *Assumptions made for implementing this feature. For example, if you are assuming the target hw capabilities, memory requirements etc*
